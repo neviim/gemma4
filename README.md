@@ -2,7 +2,7 @@
 
 Este repositório contém a configuração e o script interativo para executar localmente os modelos **Gemma 4** (`gemma4:e2b` e `gemma-4-e4b-it-qat-q4_0`) com controle sobre os modos de pensamento (*thinking*), interface rica em cores e suporte a formatação matemática limpa.
 
-> 📖 Para ver o manual completo com todos os detalhes e tabelas de conversão, consulte o [DOCUMENTACAO_CHAT.md](file:///home/neviim/developer/gemma4/DOCUMENTACAO_CHAT.md).
+> 📖 Para ver o manual completo com todos os detalhes e tabelas de conversão, consulte o [docs/DOCUMENTACAO_CHAT.md](docs/DOCUMENTACAO_CHAT.md).
 
 ---
 
